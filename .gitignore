@@ -1,1 +1,3 @@
-.bat
+*.bat
+*.log
+log
