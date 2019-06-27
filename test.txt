@@ -2,5 +2,4 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 
 Add some more text
 
-
-Update 1 in feature branch
+Adding change in this branch before rebasing conflict
